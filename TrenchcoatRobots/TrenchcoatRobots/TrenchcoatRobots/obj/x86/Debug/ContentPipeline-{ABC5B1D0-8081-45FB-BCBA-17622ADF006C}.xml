@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{ABC5B1D0-8081-45FB-BCBA-17622ADF006C}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\SPL10Per\Documents\GitHub\tRobots\TrenchcoatRobots\TrenchcoatRobots\TrenchcoatRobotsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\SPL10Per\Documents\GitHub\tRobots\TrenchcoatRobots\TrenchcoatRobots\TrenchcoatRobots\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\SPL10Per\Documents\GitHub\tRobots\TrenchcoatRobots\TrenchcoatRobots\TrenchcoatRobots\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\SPL10Per\Documents\GitHub\tRobots\TrenchcoatRobots\TrenchcoatRobots\TrenchcoatRobots\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-08-16T15:03:52.4953221+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
